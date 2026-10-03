@@ -16,6 +16,8 @@
 - Java
 - React native
 - Node js
+- Express js
+- MongoDB
 
 ## 📂 Projects
 - Phone Brand PHP Website
